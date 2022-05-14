@@ -1,2 +1,2 @@
-#My Ap
-My app sample while learning git
+#MyApp
+My app sample; version control
